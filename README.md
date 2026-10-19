@@ -1,6 +1,6 @@
 # Bonjour, je suis Diane (Miss Dias) 👋
 
-Étudiante en **Master 1 Informatique** à Aix-Marseille Université (parcours Science et Ingénérie des Donées), je me forme pour devenir **data scientist**.
+Étudiante en **Master 1 Informatique** à Aix-Marseille Université (parcours Science et Ingénierie des Données), je me forme pour devenir **data scientist**.
 
 - 🔭 Je cherche un **stage data** de 2 à 4 mois à partir du **3 mai 2027**, puis une **alternance en M2** à partir de septembre 2027.
 - 🌱 J'apprends en ce moment : machine learning avec scikit-learn, NLP, RAG avec LangChain.
